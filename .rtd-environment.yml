@@ -19,7 +19,6 @@ dependencies:
     - pip
     - pip:
         - GitPython
-        - sphinx_rtd_theme
         - cosmo-utils
         - configparser
         - sphinx-astropy
