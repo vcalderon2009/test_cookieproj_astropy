@@ -1,5 +1,3 @@
-|RTD| |License| |Issues|
-
 .. _INSTALL_MAIN:
 
 ************************************************************************
@@ -9,9 +7,6 @@ Downloading and Installing
 Some short description of the project
 
 **Author**: Victor Calderon (`victor.calderon90@gmail.com <mailto:victor.calderon90@gmail.com>`_)
-
-.. contents:: **Table of Contents**
-    :local:
 
 .. _donwload_repo_sec:
 

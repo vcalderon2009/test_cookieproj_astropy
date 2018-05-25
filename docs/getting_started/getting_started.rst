@@ -1,5 +1,3 @@
-|RTD| |License| |Issues|
-
 .. _GETTING_STARTED:
 
 *****************
@@ -9,10 +7,6 @@ Getting Started
 Some short description of the project
 
 **Author**: Victor Calderon (`victor.calderon90@gmail.com <mailto:victor.calderon90@gmail.com>`_)
-
-
-.. contents:: **Table of Contents**
-    :local:
 
 .. toctree::
     :maxdepth: 2

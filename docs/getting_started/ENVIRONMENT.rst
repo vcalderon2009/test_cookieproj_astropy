@@ -1,5 +1,3 @@
-|RTD| |License| |Issues|
-
 .. _ENVIRONMENT_MAIN:
 
 ***********************************
@@ -9,9 +7,6 @@ Using the Project's environment
 Some short description of the project
 
 **Author**: Victor Calderon (`victor.calderon90@gmail.com <mailto:victor.calderon90@gmail.com>`_)
-
-.. contents:: **Table of Contents**
-    :local:
 
 .. _env_install_subsec:
 
