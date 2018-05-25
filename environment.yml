@@ -22,4 +22,3 @@ dependencies:
     - cosmo-utils
     - configparser
     - sphinx-astropy
-    - numpydoc
